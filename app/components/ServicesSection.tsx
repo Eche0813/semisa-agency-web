@@ -37,7 +37,7 @@ export default function ServicesSection() {
                         Servicios Especializados
                     </h2>
                     <p className="text-neutral-600 text-sm leading-relaxed">
-                        Combinamos ingeniería de código limpio con arquitectura en la nube para entregar software rápido, seguro y escalable[cite: 1, 7].
+                        Combinamos ingeniería de código limpio con arquitectura en la nube para entregar software rápido, seguro y escalable.
                     </p>
                 </div>
 

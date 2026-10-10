@@ -7,25 +7,25 @@ export default function MethodologySection() {
             number: '01',
             title: 'Levantamiento & Arquitectura',
             description:
-                'Analizamos los objetivos comerciales de su proyecto y diseñamos la arquitectura técnica de datos y componentes antes de escribir código[cite: 7].',
+                'Analizamos los objetivos comerciales de su proyecto y diseñamos la arquitectura técnica de datos y componentes antes de escribir código.',
         },
         {
             number: '02',
             title: 'Prototipado UI/UX & Código Limpio',
             description:
-                'Maquetamos interfaces minimalistas e interactivas utilizando Next.js, TypeScript y Tailwind CSS sin depender de plantillas genéricas[cite: 1, 5, 7].',
+                'Maquetamos interfaces minimalistas e interactivas utilizando Next.js, TypeScript y Tailwind CSS sin depender de plantillas genéricas.',
         },
         {
             number: '03',
             title: 'Pruebas & Despliegue en la Nube',
             description:
-                'Verificamos rendimiento, seguridad de bases de datos y desplegamos de forma continua en la infraestructura global de Vercel Edge[cite: 1, 2].',
+                'Verificamos rendimiento, seguridad de bases de datos y desplegamos de forma continua en la infraestructura global de Vercel Edge.',
         },
         {
             number: '04',
             title: 'Garantía & Mantenimiento',
             description:
-                'Entregamos el código fuente, la documentación técnica y ofrecemos monitoreo constante para asegurar disponibilidad total[cite: 1, 7].',
+                'Entregamos el código fuente, la documentación técnica y ofrecemos monitoreo constante para asegurar disponibilidad total',
         },
     ];
 
@@ -45,7 +45,7 @@ export default function MethodologySection() {
                         </h2>
                     </div>
                     <p className="text-neutral-400 text-sm max-w-md font-light">
-                        Un flujo de desarrollo estructurado para entregar proyectos a tiempo, sin sobrecostos y con el máximo nivel técnico[cite: 7].
+                        Un flujo de desarrollo estructurado para entregar proyectos a tiempo, sin sobrecostos y con el máximo nivel técnico.
                     </p>
                 </div>
 
