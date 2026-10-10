@@ -2,7 +2,9 @@
 
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
+import ServicesSection from './components/ServicesSection';
 import ShowcaseGrid from './components/ShowcaseGrid';
+import MethodologySection from './components/MethodologySection';
 import Footer from './components/Footer';
 
 export default function AgencyHomePage() {
@@ -13,7 +15,9 @@ export default function AgencyHomePage() {
 
         <Navbar />
         <HeroSection />
+        <ServicesSection />
         <ShowcaseGrid />
+        <MethodologySection />
         <Footer />
       </main>
   );
