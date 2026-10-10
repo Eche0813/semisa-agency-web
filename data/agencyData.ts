@@ -18,8 +18,8 @@ export const AGENCY_PROJECTS: ProjectDemo[] = [
         badge: 'SaaS / MVP Activo',
         isLive: true,
         techStack: ['Next.js 15', 'Supabase Auth & RLS', 'Tailwind CSS'],
-        publicUrl: 'https://booking-system-mvp.vercel.app', // Ajusta con tu URL real de Vercel
-        adminUrl: 'https://booking-system-mvp.vercel.app/admin/login',
+        publicUrl: 'https://booking-system-mvp-eight.vercel.app',
+        adminUrl: 'https://booking-system-mvp-eight.vercel.app/admin/login',
     },
     {
         id: 'ecommerce-catalog',
