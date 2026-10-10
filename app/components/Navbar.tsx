@@ -20,7 +20,7 @@ export default function Navbar() {
             </div>
 
             <a
-                href="https://wa.me/"
+                href="https://wa.me/+573504990664"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 bg-black hover:bg-neutral-800 text-white font-medium text-xs tracking-wider uppercase rounded-full transition-all shadow-md shadow-black/10 flex items-center gap-2 hover:scale-105"
