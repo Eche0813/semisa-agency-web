@@ -26,8 +26,10 @@ export const AGENCY_PROJECTS: ProjectDemo[] = [
         title: 'Catálogo Interactivo & Carrito de Compras',
         description:
             'Plataforma de comercio electrónico de alta velocidad con filtros en tiempo real, gestión de inventario y pedidos automatizados por WhatsApp.',
-        badge: 'Próxima Entrega',
-        isLive: false,
+        badge: 'SaaS / MVP Activo',
+        isLive: true,
         techStack: ['React State', 'WhatsApp API', 'Stripe Integration'],
+        publicUrl:'https://semisa-ecommerce-demo.vercel.app/'
+
     },
 ];
